@@ -4,6 +4,4 @@ module top.v (
 	input  a_i,
 	output z_o
 );
-
-assign z_o = a_i;
 endmodule
