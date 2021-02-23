@@ -1,3 +1,4 @@
+//switched to wordirbranch
 module top.v (
 	input  clk_i,
 	input  rst_i,
